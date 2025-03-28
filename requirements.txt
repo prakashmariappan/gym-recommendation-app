@@ -1,0 +1,11 @@
+streamlit
+googlemaps
+pandas
+requests
+folium
+streamlit-folium
+plotly
+python-dotenv
+textblob==0.17.1
+nltk==3.6.5
+scikit-learn
