@@ -32,7 +32,7 @@ nltk.download('punkt', quiet=True)
 
 # Google Maps API Key (make sure to replace with your own key)
 API_KEY = os.getenv('API_KEY')
-A
+
 gmaps = googlemaps.Client(key=API_KEY)
 
 preference_keywords = {
