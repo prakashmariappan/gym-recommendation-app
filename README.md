@@ -1,4 +1,4 @@
-# FitRankerAI Powered Gym Review Analysis System
+# FitRanker AI Powered Gym Review Analysis System
 
 The **AI Powered Gym Review Analysis System** helps users find gyms tailored to their preferences, using location data and personalized reviews. By leveraging the Google Places API and NLP techniques, the app provides a list of nearby gyms, rates them based on user-defined preferences, and displays them on an interactive map.
 
