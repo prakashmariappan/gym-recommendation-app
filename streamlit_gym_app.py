@@ -30,8 +30,7 @@ load_dotenv()
 
 nltk.download('punkt', quiet=True)
 
-# Google Maps API Key (make sure to replace with your own key)
-API_KEY = os.getenv('API_KEY')
+API_KEY = st.secrets["google_maps"]["api_key"]
 
 gmaps = googlemaps.Client(key=API_KEY)
 
