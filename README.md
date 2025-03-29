@@ -1,6 +1,6 @@
-# Gym Recommendation App
+# FitRankerAI Powered Gym Review Analysis System
 
-The **Gym Recommendation App** helps users find gyms tailored to their preferences, using location data and personalized reviews. By leveraging the Google Places API and NLP techniques, the app provides a list of nearby gyms, rates them based on user-defined preferences, and displays them on an interactive map.
+The **AI Powered Gym Review Analysis System** helps users find gyms tailored to their preferences, using location data and personalized reviews. By leveraging the Google Places API and NLP techniques, the app provides a list of nearby gyms, rates them based on user-defined preferences, and displays them on an interactive map.
 
 ## Features
 
@@ -52,7 +52,7 @@ The **Gym Recommendation App** helps users find gyms tailored to their preferenc
 
 5. ***Run the app***
 ```bash
-streamlit run app.py
+streamlit run streamlit_gym_app.py
 ```
 
 7. ***Access the app:***

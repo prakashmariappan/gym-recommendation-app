@@ -159,8 +159,8 @@ st.markdown(
 # Title and subtitle with styling
 st.markdown(
     """
-    <h1>FitFindr</h1>
-    <h2>Enhanced Gym Recommendation App</h2>
+    <h1>FitRanker</h1>
+    <h2>AI Powered Gym Review Analysis System</h2>
     """,
     unsafe_allow_html=True,
 )
