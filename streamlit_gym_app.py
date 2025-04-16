@@ -25,7 +25,7 @@ nltk.download('averaged_perceptron_tagger', quiet=True)
 
 os.environ['NLTK_DATA'] = os.path.join(os.getcwd(), 'nltk_data')
 
-# Load environment variables from .env file
+# Load environment variables from the .env file
 load_dotenv()
 
 nltk.download('punkt', quiet=True)
